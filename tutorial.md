@@ -58,4 +58,4 @@
 
 Windows 下如果收据测试只在 Unicode 字符上有差异，可在 PowerShell 设置 `$env:PYTHONUTF8 = '1'` 再重跑。部分托管离线用例使用 Unix socket，可在 Linux 或 WSL 跑这部分，单独记录 Windows 本地运行结果。
 
-语音、Discord/WhatsApp 的具体适配、托管页面样式和 `lab/` 实验暂缓阅读。配套题和模拟面入口见本地文件 `面经种子库/README.md` 与 `面经种子库/asu-training-seed.md`。
+语音、Discord/WhatsApp 的具体适配、托管页面样式和 `lab/` 实验暂缓阅读。配套题和模拟面入口见 [面经种子库索引](面经种子库/README.md) 与 [Waku 训练种子](面经种子库/asu-training-seed.md)。
